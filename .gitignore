@@ -1,3 +1,5 @@
 node_modules
 .idea/
 /npm-debug.log
+/Big Drop Website Database.xlsx
+/output.json
